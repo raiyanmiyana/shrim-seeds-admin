@@ -1,0 +1,9 @@
+export const currency = '$';
+export const currentYear = new Date().getFullYear();
+export const developedByLink = 'https://groottechnologies.com/';
+export const developedBy = 'Groot Technologies';
+export const contactUs = 'info@groottechnologies.com';
+export const buyLink = '';
+export const basePath = '';
+export const DEFAULT_PAGE_TITLE = 'Creators Cube';
+export const colorVariants = ['primary', 'secondary', 'success', 'danger', 'warning', 'info', 'pink', 'purple', 'light', 'dark', 'link'];
