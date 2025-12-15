@@ -20,7 +20,7 @@ const InfluencerContantFormUpdate = lazy(() => import('@/app/(admin)/influencerC
 
 // counter
 const CreatorCount = lazy(() => import('@/app/(admin)/creatorCount/creatorCount.jsx'))
-const CreatorCountForm = lazy(() => import('@/app/(admin)/creatorCount/CreatorCountForm.jsx'))
+const CreatorCountForm = lazy(() => import('@/app/(admin)/creatorCount/creatorCountForm.jsx'))
 const CreatorCountById = lazy(() => import('@/app/(admin)/creatorCount/creatorCountById.jsx'))
 
 // brands
